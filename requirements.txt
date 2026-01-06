@@ -1,0 +1,13 @@
+openai
+python-dotenv
+streamlit
+requests
+pandas
+tenacity
+pytrends
+google-genai
+streamlit
+requests
+python-dotenv
+pytrends
+
